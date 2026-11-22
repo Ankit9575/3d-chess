@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d1e24" />
+      <stop offset="100%" stop-color="#0d0e12" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7e7b4" />
+      <stop offset="50%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#9e7b20" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bgGrad)" />
+  <rect x="28" y="28" width="456" height="456" rx="76" fill="none" stroke="url(#goldGrad)" stroke-width="6" opacity="0.45" />
+  <!-- Cross Finial -->
+  <rect x="242" y="88" width="28" height="72" rx="6" fill="url(#goldGrad)" />
+  <rect x="220" y="108" width="72" height="26" rx="6" fill="url(#goldGrad)" />
+  <!-- Crown Dome -->
+  <ellipse cx="256" cy="186" rx="58" ry="30" fill="url(#goldGrad)" />
+  <!-- Collar -->
+  <rect x="190" y="212" width="132" height="22" rx="11" fill="#f5eedf" />
+  <!-- Sculpted Waist -->
+  <path d="M206 234 L306 234 L334 352 L178 352 Z" fill="url(#goldGrad)" />
+  <!-- Base Tiers -->
+  <rect x="156" y="352" width="200" height="26" rx="13" fill="#f5eedf" />
+  <rect x="136" y="382" width="240" height="36" rx="16" fill="url(#goldGrad)" />
+</svg>

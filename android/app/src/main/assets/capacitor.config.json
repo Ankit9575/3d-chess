@@ -1,0 +1,10 @@
+{
+	"appId": "com.aurelia.chess3d",
+	"appName": "Aurelia 3D Chess",
+	"webDir": "dist",
+	"android": {
+		"backgroundColor": "#121215",
+		"allowMixedContent": false,
+		"webContentsDebuggingEnabled": false
+	}
+}

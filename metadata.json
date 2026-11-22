@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia 3D Chess",
+  "description": "A luxury 3D Chess studio featuring procedural Staunton and architectural pieces, Stockfish AI, interactive orbit & drag-and-drop controls, and move-by-move replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
